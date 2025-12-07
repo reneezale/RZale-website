@@ -8,11 +8,27 @@ about:
 
 :::{#me}
 
-## Goals
+## About me
+I provide data-driven strategies to some of the world’s most beloved brands through quantitative and qualitative research and consulting. Organized and efficient project/program manager with a love of cross-functional collaboration. Passionate about learning and upskilling others. I'm comfortable with ambiguity and thrive in fast paced, entrepreneurial environments. 
+
+Advanced PowerPoint and Excel skills. Data analysis + visualization experience in R, SPSS, and Tableau. Learning SQL.
+
+Fluent in Spanish (speaking, writing, reading), learning Portuguese.
+
+Graduate level coursework in data analytics (R, SQL, Excel), data science (R), statistics, economics, marketing management. 
+
+Prior international work experience in program management, volunteer coordination, and program measurement and evaluation. 
 
 ## Education
 
-## Experience
+Master of Science - Data Analytics and Computational Social Sciences
+University of Massachusetts Amherst
+Spring 2026 (Expected)
+
+BA, Political Science, International Studies, Latin American Studies, History
+Elon University
+2007 - 2011
+
 
 :::
 
