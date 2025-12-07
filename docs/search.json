@@ -33,5 +33,26 @@
     "title": "About Me",
     "section": "",
     "text": "Master of Science - Data Analytics and Computational Social Sciences University of Massachusetts Amherst Spring 2026 (Expected)\nBA, Political Science, International Studies, Latin American Studies, History Elon University 2007 - 2011"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I provide data-driven strategies to some of the world’s most beloved brands through quantitative and qualitative research and consulting. Organized and efficient project/program manager with a love of cross-functional collaboration. Passionate about learning and upskilling others. I’m comfortable with ambiguity and thrive in fast paced, entrepreneurial environments.\nAdvanced PowerPoint and Excel skills. Data analysis + visualization experience in R, SPSS, and Tableau. Learning SQL.\nFluent in Spanish (speaking, writing, reading), learning Portuguese.\nGraduate level coursework in data analytics (R, SQL, Excel), data science (R), statistics, economics, marketing management.\nPrior international work experience in program management, volunteer coordination, and program measurement and evaluation."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This dashboard showcases the results of a nationally representative survey fielded to 281 US residents as part of the Fall 2023 DACSS Survey Research Methods course.\nThe main objective of my research was to understand how Americans feel about the current state of COVID-19 in the US, and how that might influence their perceptions and use of the newest COVID-19 vaccine, released in the Fall of 2023 (Stapleton 2023).\nYou can find the interactive dashboard here: https://reneezale.github.io/DataVizProject/ You can find the code and data for this dashboard here: https://github.com/reneezale/DataVizProject"
+  },
+  {
+    "objectID": "projects.html#adoption-of-the-updated-2023-2024-covid-19-vaccine",
+    "href": "projects.html#adoption-of-the-updated-2023-2024-covid-19-vaccine",
+    "title": "Projects",
+    "section": "",
+    "text": "This dashboard showcases the results of a nationally representative survey fielded to 281 US residents as part of the Fall 2023 DACSS Survey Research Methods course.\nThe main objective of my research was to understand how Americans feel about the current state of COVID-19 in the US, and how that might influence their perceptions and use of the newest COVID-19 vaccine, released in the Fall of 2023 (Stapleton 2023).\nYou can find the interactive dashboard here: https://reneezale.github.io/DataVizProject/ You can find the code and data for this dashboard here: https://github.com/reneezale/DataVizProject"
   }
 ]

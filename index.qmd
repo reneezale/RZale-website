@@ -3,12 +3,12 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profile.jpg
 ---
 
 :::{#me}
 
-## About me
+## Background
 I provide data-driven strategies to some of the world’s most beloved brands through quantitative and qualitative research and consulting. Organized and efficient project/program manager with a love of cross-functional collaboration. Passionate about learning and upskilling others. I'm comfortable with ambiguity and thrive in fast paced, entrepreneurial environments. 
 
 Advanced PowerPoint and Excel skills. Data analysis + visualization experience in R, SPSS, and Tableau. Learning SQL.
